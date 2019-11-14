@@ -1,0 +1,19 @@
+{
+  "name": "dino-toy",
+  "version": "1.0.0",
+  "description": "Interactive view of the [example](http://prosemirror.net/examples/dino/) from the [ProseMirror](http://prosemirror.net) website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cindywu/dino-toy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cindywu/dino-toy/issues"
+  },
+  "homepage": "https://github.com/cindywu/dino-toy/index.html"
+}
